@@ -12,5 +12,8 @@
 
 **Image threshold**
 
+**<img width="621" alt="Screenshot 2022-07-26 160309" src="https://user-images.githubusercontent.com/104075647/180986103-08c568b7-af15-4873-9371-7d6133f92e3d.png">**
+
+
 
 **[here is an importatnt article ](https://analyticsindiamag.com/what-are-the-different-image-thresholding-techniques-and-how-to-implement-them/)**
