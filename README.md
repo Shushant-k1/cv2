@@ -10,7 +10,7 @@
 
 <img width="655" alt="Screenshot 2022-07-26 153526" src="https://user-images.githubusercontent.com/104075647/180980907-b49e9420-64b7-4971-9079-08e986c64e8a.png">
 
-**Image threshold**
+**[Image threshold](https://github.com/everythingcanbedone/cv2/blob/main/threshold.py)**
 
 **<img width="621" alt="Screenshot 2022-07-26 160309" src="https://user-images.githubusercontent.com/104075647/180986103-08c568b7-af15-4873-9371-7d6133f92e3d.png">**
 
