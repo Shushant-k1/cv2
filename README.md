@@ -9,3 +9,8 @@
 **[sharping and image](https://github.com/everythingcanbedone/cv2/blob/main/sharpening_image.py)**
 
 <img width="655" alt="Screenshot 2022-07-26 153526" src="https://user-images.githubusercontent.com/104075647/180980907-b49e9420-64b7-4971-9079-08e986c64e8a.png">
+
+**Image threshold**
+
+
+**[here is an importatnt article ](https://analyticsindiamag.com/what-are-the-different-image-thresholding-techniques-and-how-to-implement-them/)**
